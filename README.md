@@ -1,3 +1,3 @@
 # Aplicacion-Flask
 ## Vista previa
-(MuestraFuncionamiento.png)
+![Vista previa de la aplicación](MuestraFuncionamiento.png)
